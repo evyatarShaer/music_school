@@ -126,5 +126,10 @@ namespace Music_School.Service
         {
             MessageBox.Show("ijiooj");
         }
+
+        public static void hi()
+        {
+            MessageBox.Show("hi");
+        }
     }
 }
