@@ -121,5 +121,10 @@ namespace Music_School.Service
                 MessageBox.Show($"An error occurred: {ex.Message}");
             }
         }
+
+        public static void evya()
+        {
+            MessageBox.Show("ijiooj");
+        }
     }
 }
